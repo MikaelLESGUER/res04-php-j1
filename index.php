@@ -47,7 +47,7 @@ $user = [
 
 $presidentNumber = 44;
 
-echo "Je suis {$user['firstName']} {$user['lastName']}, le {$presidentNumber}ème président des USA.";
+echo "Je suis {$user['firstName']} {$user['lastName']}, le {$presidentNumber}ème président des USA."."<br>";
 
 $users = [
     [
