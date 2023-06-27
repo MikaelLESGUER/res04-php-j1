@@ -1,4 +1,4 @@
-<article class="">
+<!-- <article class="">
     <header>
         <h1></h1>
     </header>
@@ -13,7 +13,7 @@
     <footer>
         <h3>Moyenne des notes de l'étudiant </h3>
     </footer>
-</article>
+</article> -->
 
 <?php  
     $students = [
